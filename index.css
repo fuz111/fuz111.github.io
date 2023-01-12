@@ -1,0 +1,19 @@
+body {
+    background-color: #fefbd8;
+  }
+#container{
+    width: 1000px;
+    text-align: center;
+    /* line-height: 30px; */
+}
+#tips{
+    position: absolute;
+    background-color: #aaa;
+    font-size: 12px;
+    padding: 10px;
+    min-width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    display: none;
+}
